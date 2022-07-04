@@ -3,8 +3,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ![dmdms's github stats](https://github-readme-stats.vercel.app/api?username=dmdms&show_icons=true)
-[![dmdms's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji
-ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dmdms)
+[![dmdms's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dmdms&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dmdms)
 
 <!--
 **dmdms/dmdms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
