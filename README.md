@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=400&text=Eunji's-Github&animation=fadeIn)
-### Hi there 👋
+### ✨Eunji Yeom✨
+<a href="[#]" target="_blank"><img src="https://img.shields.io/badge/[instagram]-[E4405F]?style=flat-square&logo=[Instagram]&logoColor=white"/></a>
 
 <!--
 **dmdms/dmdms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
